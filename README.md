@@ -20,7 +20,7 @@ Hi, I'm Harry Chen!, a passionate self-taught frontEnd web developer from China.
 
 [![Harry Chen github stats](https://github-readme-stats.vercel.app/api?username=czy88840616&show_icons=true)](https://github.com/czy88840616)
 
-Welcome to star Midway ❤️。
+Welcome to star Midway ❤️
 
 <a href="https://github.com/czy88840616">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=midwayjs&repo=midway&title_color=#000000" />
