@@ -22,6 +22,6 @@ Hi, I'm Harry Chen!, a passionate self-taught frontEnd web developer from China.
 
 Welcome to star Midway ❤️
 
-<a href="https://github.com/czy88840616">
+<a href="https://github.com/midwayjs/midway">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=midwayjs&repo=midway&title_color=#000000" />
 </a>
