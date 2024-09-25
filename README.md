@@ -1,8 +1,12 @@
 ### Hi there, I'm Harry Chen! 👋
 
-Hi, I'm Harry Chen!, a passionate self-taught frontEnd web developer from China.
+Hi, I'm Harry Chen!, a passionate frontEnd web developer from China.
 
-- 🔭 I’m currently working on [Midway Serverless](https://github.com/midwayjs/midway)
+I possess a variety of skills, such as writing Node.js programs using TypeScript/JavaScript, and I am also familiar with front-end technologies like React/Tailwind, as well as back-end languages including Java and Rust. In addition, I can use tools like Photoshop, Pixelmator, Affinity, and Blender for design work.
+
+
+- 🔭 I’m committed to the development of [Midway](https://github.com/midwayjs/midway), a popular full-stack Node.js framework in China.
+
 - 🌱 I’m currently learning Serverless & Framework Design.
 - 💬 Ask me about anything [here](https://github.com/czy88840616/czy88840616/issues)
 
